@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetApp.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetApp.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetApp.mc" id="4" lineNum="11" pc="268435479" symbol="onStart"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetApp.mc" id="5" lineNum="15" pc="268435484" symbol="onStop"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetApp.mc" id="6" lineNum="19" pc="268435489" symbol="getInitialView"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetApp.mc" id="6" lineNum="20" pc="268435493" symbol="getInitialView"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetApp.mc" id="6" lineNum="21" pc="268435523" symbol="getInitialView"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="8" lineNum="6" pc="268435599" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="8" lineNum="7" pc="268435603" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="9" lineNum="11" pc="268435622" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="9" lineNum="12" pc="268435626" symbol="onLayout"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="10" lineNum="18" pc="268435640" symbol="onShow"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="11" lineNum="22" pc="268435645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="11" lineNum="23" pc="268435649" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="11" lineNum="24" pc="268435689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="11" lineNum="25" pc="268435701" symbol="onUpdate"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="12" lineNum="31" pc="268435799" symbol="onHide"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="34" pc="268435804" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="35" pc="268435808" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="36" pc="268435828" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="38" pc="268435841" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="39" pc="268435855" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="40" pc="268435888" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="42" pc="268435904" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="43" pc="268435937" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="44" pc="268435950" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="47" pc="268435983" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="48" pc="268436016" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="51" pc="268436032" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\MeadowsWidgetView.mc" id="13" lineNum="54" pc="268436059" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="15" lineNum="8" pc="268436076" symbol="onTap"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="15" lineNum="9" pc="268436080" symbol="onTap"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="15" lineNum="10" pc="268436092" symbol="onTap"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="16" lineNum="13" pc="268436096" symbol="makeRequest"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="16" lineNum="14" pc="268436100" symbol="makeRequest"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="16" lineNum="16" pc="268436123" symbol="makeRequest"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="17" lineNum="28" pc="268436193" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="17" lineNum="29" pc="268436197" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="17" lineNum="30" pc="268436219" symbol="initialize"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="18" lineNum="34" pc="268436230" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="18" lineNum="35" pc="268436234" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="18" lineNum="36" pc="268436245" symbol="onReceive"/>
+<entry filename="C:\\Users\\david\\eclipse-workspace\\MeadowsWidget\\source\\WebRequestDelegate.mc" id="18" lineNum="38" pc="268436268" symbol="onReceive"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="10" object="true" symbol="MeadowsWidgetView"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry field="true" id="8389115" symbol="mMessage"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="16" symbol="AppName"/>
+<entry id="19" method="true" symbol="makeRequest"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="18" symbol="notify"/>
+<entry id="11" object="true" symbol="WebRequestDelegate"/>
+<entry id="13" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry id="17" method="true" symbol="onReceive"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="9" object="true" symbol="MeadowsWidgetApp"/>
+<entry field="true" id="12" symbol="mView"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435640" name="dc" stackId="1" startPc="268435622"/>
+<entry endPc="268435799" name="dc" stackId="1" startPc="268435645"/>
+<entry endPc="268436076" name="args" stackId="1" startPc="268435804"/>
+<entry endPc="268436096" name="clickEvent" stackId="1" startPc="268436076"/>
+<entry endPc="268436230" name="handler" stackId="1" startPc="268436193"/>
+<entry endPc="268436304" name="responseCode" stackId="1" startPc="268436230"/>
+<entry endPc="268436304" name="data" stackId="2" startPc="268436230"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="MeadowsWidgetApp" type="class"/>
+<dataEntry offset="261" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="340" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="379" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="410" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="441" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="472" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="503" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="542" parentId="globals" symbolId="MeadowsWidgetView" type="class"/>
+<dataEntry offset="637" parentId="globals" symbolId="WebRequestDelegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="MeadowsWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="MeadowsWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="MeadowsWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="MeadowsWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MeadowsWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="MeadowsWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="MeadowsWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="MeadowsWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="MeadowsWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceive" parent="MeadowsWidgetView">
+<param id="args"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onTap" parent="WebRequestDelegate">
+<param id="clickEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeRequest" parent="WebRequestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WebRequestDelegate">
+<param id="handler"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceive" parent="WebRequestDelegate">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
